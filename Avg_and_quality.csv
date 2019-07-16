@@ -1,6 +1,6 @@
-,Country,Average living cost,Quality of Life Index
-0,Spain,27996.0,173.56
-1,France,38172.0,156.1
-2,Germany,33420.0,184.3
-3,United Kingdom,34056.0,166.73
-4,United States,36288.0,176.77
+,country_number,Country,Average living cost,Quality of Life Index
+0,0,Spain,27996.0,173.56
+1,1,France,38172.0,156.1
+2,2,Germany,33420.0,184.3
+3,3,United Kingdom,34056.0,166.73
+4,4,United States,36288.0,176.77
