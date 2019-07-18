@@ -1,10 +1,10 @@
 ,job_id,job,exp
-0,0,Senior Data Scientist,Senior
+0,0, Data Scientist,Senior
 1,1,Data Analyst,Experienced
-2,2,Senior Financial Analyst,Senior
+2,2, Financial Analyst,Senior
 3,3,Financial Analyst,Experienced
-4,4,Junior Data Analyst,Junior
-5,5,Senior Data Analyst,Senior
+4,4, Data Analyst,Junior
+5,5, Data Analyst,Senior
 6,6,Data Scientist,Experienced
-7,7,Junior Data Scientist,Junior
-8,8,Junior Financial Analyst,Junior
+7,7, Data Scientist,Junior
+8,8, Financial Analyst,Junior
