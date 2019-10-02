@@ -11,12 +11,14 @@ Our future
 - [Dataset](#dataset)
 - [Workflow](#workflow)
 - [Organization](#organization)
+- [Results](#results)
 - [Links](#links)
 
 <a name="project-description"></a>
 
 ## Project Description
-Data is information, and as long as it is relevant, it’s a tool to study the past, so we can look into the future. So, what else can we do but to try discovering ours? And that’s what’s this project is all about, looking for available roles in different countries and comparing them with each other in order to get the most profitable (even in a non economical sense) option
+Data is information, and as long as it is relevant, it’s a tool to study the past, so we can look into the future. So, what else can we do but to try discovering ours? And that’s what’s this project is all about, looking for available roles in different countries and comparing them with each other in order to get the most profitable (even in a non economical sense) option.
+To do the analysis the following countries have been selected: United States, Germany, France, United Kingdom and Spain for the selected positions: Data Analyst, Financial Analyst and Data Scientist.
 
 <a name="hypotheses-/-questions"></a>
 
@@ -45,6 +47,28 @@ Then, communicating is essential: you can’t work without your team, so even if
 ## Organization
 Our method was simple: Communication. You need nothing but interaction with all the members of the team to get it done, you just need to understand your role in the team and the work and once you do just go on. 
 Of course, we did use tools to get things more friendly, as the board to explain and agree and Trello to remember those decisions.
+
+<a name="results"></a>
+
+## Results
+
+Before we can answer the question of which is the best country to work after the bootcamp, we first need to choose the job we’ll compare. We have taken the Data Analyst, Data Scientist and Financial Analyst, and we have also segmented it by the experience so we get closer to the reality: Junior, Experienced and Senior.
+
+### Job salaries per experience
+We have designed the following plot aiming to compare the jobs by experience so the data is more similar, it wouldn’t make sense to compare the salary of a Senior job with a Junior job.
+
+![salaries_experience_jobtype](images/salaries_experience_jobtype.png "Salaries per type of job and experience")
+
+As expected the average salary increases from Junior to Senior for each type of job.
+The lowest salary is obtained for the role of Data Analyst followed by Financial Analyst and then the role of Data Scientist.
+
+### Where is it better to work?
+In each of the following three graphs, for each of the jobs, we plot the data of the salaries by countries and experience. In this way, we can see in which countries that job is better paid. As all the salaries are not comparable in different countries, the measure we are taking is the "absolute wealth", simply calculated subtracting the average living cost of each country to the salary of each job. That's why there can be some columns in negative.
+
+The average salaries from Spain and France do not follow the logical trend of being higher with more experience. This can be explained as in the Glassdoor portal we scraped it says this data has low confidence.
+
+
+
 
 <a name="links"></a>
 
