@@ -52,7 +52,19 @@ Of course, we did use tools to get things more friendly, as the board to explain
 
 ## Results
 
-Before we can answer the question of which is the best country to work after the bootcamp, we first need to choose the job we’ll compare. We have taken the Data Analyst, Data Scientist and Financial Analyst, and we have also segmented it by the experience so we get closer to the reality: Junior, Experienced and Senior.
+Before we can answer the question of which is the best country to work after the bootcamp, we first need to choose the job we’ll compare. We have taken the roles of Data Analyst, Data Scientist and Financial Analyst, and we have also segmented it by the experience so we get closer to the reality: Junior, Experienced and Senior.
+
+### Hypothesis
+Below we show the hypothesis we had before we start our analysis. We'll check if they are proved to be true or not at the end of the study.
+
+NOTE: As all the salaries are not comparable in different countries, the measure we are taking is the "absolute wealth" in euros, simply calculated subtracting the average living cost of each country to the salary of each job.
+
+Before we start analysing the data we have the following hypothesis:
+- USA will have the highest absolute wealth
+- Spain will have the lowest absolute wealth
+- France and Uk will be average
+- Germany will have Europe’s best absolute wealth
+
 
 ### Job salaries per experience
 We have designed the following plot aiming to compare the jobs by experience so the data is more similar, it wouldn’t make sense to compare the salary of a Senior job with a Junior job.
@@ -63,12 +75,41 @@ As expected the average salary increases from Junior to Senior for each type of 
 The lowest salary is obtained for the role of Data Analyst followed by Financial Analyst and then the role of Data Scientist.
 
 ### Where is it better to work?
-In each of the following three graphs, for each of the jobs, we plot the data of the salaries by countries and experience. In this way, we can see in which countries that job is better paid. As all the salaries are not comparable in different countries, the measure we are taking is the "absolute wealth", simply calculated subtracting the average living cost of each country to the salary of each job. That's why there can be some columns in negative.
+In each of the following three graphs, for each of the jobs, we plot the data of the salaries by countries and experience. 
+In this way, we can see in which countries that job is better paid. 
+As all the salaries are not comparable in different countries, the measure we are taking is the "absolute wealth", simply calculated subtracting the average living cost of each country to the salary of each job. That's why there can be some columns in negative.
 
-The average salaries from Spain and France do not follow the logical trend of being higher with more experience. This can be explained as in the Glassdoor portal we scraped it says this data has low confidence.
+**Data Analyst**
+
+![salaries_data_analyst_countries](images/salaries_data_analyst_countries.png "Salaries for Data Analyst by country")
+
+NOTE: The average salaries from Spain and France do not follow the logical trend of being higher with more experience. This can be explained as in the Glassdoor portal we scraped it says this data has low confidence. 
+
+**Data Scientist**
+
+![salaries_data_scientist_countries](images/salaries_data_scientist_countries.png "Salaries for Data Scientist by country")
 
 
+**Financial Analyst**
 
+![salaries_financial_analyst_countries](images/salaries_financial_analyst_countries.png "Salaries for Financial Analyst by country")
+
+
+### Hypothesis check
+How do the results compare to our initial hypothesis?
+- USA will have the highest absolute wealth
+This is indeed true. The USA is where the salaries are the highest in our comparison.
+
+- Spain will have the lowest absolute wealth
+Surprisingly this is not the case as can be seen when comparing Spain with the UK for jobs such as Data Analyst and Financial Analyst.
+
+- France and UK will be average
+In some instances (as seen in the example above) the UK is below Spain in terms of absolute wealth.
+
+- Germany will have Europe’s best absolute wealth
+Germany is indeed the Europan country with the highest absolute wealth.
+
+So to summarize the answer to the question Where is the best place to work (if you want to acheive maximum wealth) is the USA.
 
 <a name="links"></a>
 
