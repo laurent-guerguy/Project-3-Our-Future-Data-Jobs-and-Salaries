@@ -85,6 +85,7 @@ As all the salaries are not comparable in different countries, the measure we ar
 
 NOTE: The average salaries from Spain and France do not follow the logical trend of being higher with more experience. This can be explained as in the Glassdoor portal we scraped it says this data has low confidence. 
 
+
 **Data Scientist**
 
 ![salaries_data_scientist_countries](images/salaries_data_scientist_countries.png "Salaries for Data Scientist by country")
@@ -109,7 +110,7 @@ In some instances (as seen in the example above) the UK is below Spain in terms 
 - Germany will have Europe’s best absolute wealth
 Germany is indeed the Europan country with the highest absolute wealth.
 
-So to summarize the answer to the question Where is the best place to work (if you want to acheive maximum wealth) is the USA.
+So to summarize the answer to the question: "Where is the best place to work (if you want to acheive maximum wealth)?" is the USA.
 
 <a name="links"></a>
 
