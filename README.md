@@ -1,6 +1,6 @@
 ﻿<img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
+# Data Thiefs - Salary in Data
 Our future
 
 *[Javier Pardo, Miquel Petit, Onur Taskin, Laurent Guerguy, Barcelona June 2019]*
